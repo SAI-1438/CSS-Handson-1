@@ -1,0 +1,29 @@
+h1{
+    color:red;
+}
+.heading{
+    color:orangered;
+}
+li{
+    color:brown;
+}
+.para1{
+    text-decoration:line-through;
+}
+.para2{
+    background-color: yellow;
+}
+.para3{
+    text-decoration: underline;
+}
+p{
+    color:brown; 
+}
+a{
+    color:brown;
+    text-decoration: none;
+    background-color: yellow;
+}
+ul{
+    letter-spacing:5px;
+}
